@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Sports:DE Skysports
-http://gameserver4.ddns.net:80/live/delio151116/8BcZVoqgPa/4073.ts
+https://github.com/fewtricks/Test/blob/a8551d535d8aa437e3f256d510a85bac11395977/m3u/Sports.m3u
 #EXTINF:-1,Sports:BT Sports 1
 http://gameserver4.ddns.net:80/live/delio151116/8BcZVoqgPa/9930.ts
 #EXTINF:-1,Sports:BT Sports 2
