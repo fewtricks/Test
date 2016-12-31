@@ -1,11 +1,41 @@
 #EXTM3U
-#EXTINF:-1,Sports:DE Skysports
-http://mathrubhumi.live-s.cdn.bitgravity.com/cdn-live/_definst_/mathrubhumi/secure/live/securemultibitrate.smil/chunklist_w215854043_b384000.m3u8
-#EXTINF:-1,Sports:BT Sports 1
-http://mathrubhumi.live-s.cdn.bitgravity.com/cdn-live/_definst_/mathrubhumi/secure/live/securemultibitrate.smil/chunklist_w215854043_b384000.m3u8
-#EXTINF:-1,Sports:BT Sports 2
-http://gameserver4.ddns.net:80/live/delio151116/8BcZVoqgPa/9931.ts
-#EXTINF:-1,Sports:sky Sports 1
-http://gameserver4.ddns.net:80/live/delio151116/8BcZVoqgPa/9932.ts
-#EXTINF:-1,Sports:Cartoon network
-http://gameserver4.ddns.net:80/live/delio151116/8BcZVoqgPa/9943.ts
+#EXTINF:-1,NEWZ:BEIN-SPORT
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5788.ts
+#EXTINF:-1,BEINSPORT_FULLHD1
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5770.ts
+#EXTINF:-1,BEINSPORT_FULLHD2
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5771.ts
+#EXTINF:-1,BEINSPORT_FULLHD3
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5772.ts
+#EXTINF:-1,BEINSPORT_FULLHD4
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5773.ts
+#EXTINF:-1,BEINSPORT_FULLHD5
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5774.ts
+#EXTINF:-1,BEINSPORT_FULLHD6
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5775.ts
+#EXTINF:-1,BEINSPORT_FULLHD7
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5776.ts
+#EXTINF:-1,BEINSPORT_FULLHD8
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5777.ts
+#EXTINF:-1,BEINSPORT_FULLHD9
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5778.ts
+#EXTINF:-1,BEINSPORT_FULLHD10
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/5779.ts
+#EXTINF:-1,BEINSPORT_FULLHD11
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/6585.ts
+#EXTINF:-1,BEINSPORT_FULLHD12
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/8534.ts
+#EXTINF:-1,Qu:Bein-Sport_1HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10013.ts
+#EXTINF:-1,Qu:Bein-Sport_2HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10014.ts
+#EXTINF:-1,Qu:Bein-Sport_3HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10015.ts
+#EXTINF:-1,Qu:Bein-Sport_4HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10016.ts
+#EXTINF:-1,Qu:Bein-Sport_5HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10017.ts
+#EXTINF:-1,Qu:Bein-Sport_6HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10018.ts
+#EXTINF:-1,Qu:Bein-Sport_7HD
+http://158.69.27.190:5477/live/abdulhakim/abdulhakim/10019.ts
