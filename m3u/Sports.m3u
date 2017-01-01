@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Saudi:Saudi
+#EXTINF:0 tvg-name=Saudi tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNadjSIAv9PptCrW6x9_2UsMVRprSmuLR6eRKz8j1Qi08gVbGlfw"
 http://fiberbox.tk/live/brennan/brennan/12695.ts
  #EXTINF:-1,==-INDIA-==
 #EXTINF:-1,IN: ABP News
