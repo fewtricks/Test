@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Abudhabi Sports 1 HD" tvg-logo="https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.sat-address.com%2Ff%2Fpics%2Flogotipi%2FAbu-Dhabi-Sports-1_o.jpg&imgrefurl=http%3A%2F%2Fwww.ramalin.com%2Fiptv-sports-playlist-today%2F&docid=t9gZdFAEgwR8rM&tbnid=5PtKGsc8LOxEMM%3A&vet=1&w=220&h=143&bih=638&biw=1366&q=ad%20sports%201%20hd&ved=0ahUKEwjgqbG8nKHRAhVKD8AKHSLSCHQQMwgdKAEwAQ&iact=mrc&uact=8"
+#EXTINF:-1 tvg-name="Abudhabi Sports 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg"
 http://81.230.200.187:1967/live/mustafa/mustafa1/427.ts
-#EXTINF:-1 tvg-name="Abudhabi Sports 2 HD" tvg-logo="https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fwww.sat-address.com%2Ff%2Fpics%2Flogotipi%2FAbu-Dhabi-Sports-2_o.jpg&imgrefurl=http%3A%2F%2Fwww.ramalin.com%2Fiptv-sports-playlist-today%2F&docid=t9gZdFAEgwR8rM&tbnid=d5Epf9UueLvyeM%3A&vet=1&w=220&h=144&bih=638&biw=1366&q=ad%20sports%202%20hd&ved=0ahUKEwjyrd_poaHRAhUkOsAKHeprBHgQMwgcKAAwAA&iact=mrc&uact=8"
+#EXTINF:-1 tvg-name="Abudhabi Sports 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg"
 http://81.230.200.187:1967/live/mustafa/mustafa1/428.ts 
-#EXTINF:-1 tvg-name="Abudhabi Sports 3 HD" tvg-logo="https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fhdth24.com%2Fwp-content%2Fuploads%2Fsp%2F1476142109270.png&imgrefurl=http%3A%2F%2Fhdth24.com%2Ftechnology%2F104668.html&docid=ahBPLuBn-eA9uM&tbnid=czLRs9xMHgVhyM%3A&vet=1&w=745&h=419&bih=638&biw=1366&q=ad%20sports%203%20hd&ved=0ahUKEwjTldrwoaHRAhXFKsAKHUiMC9cQMwgbKAEwAQ&iact=mrc&uact=8"
+#EXTINF:-1 tvg-name="Abudhabi Sports 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-3_o.jpg"
 http://81.230.200.187:1967/live/mustafa/mustafa1/429.ts
-#EXTINF:-1 tvg-name="Abudhabi Sports 4 HD" tvg-logo="https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fcontent.osn.com%2Flogo%2Fchannel%2F165x120%2FAD4.png&imgrefurl=https%3A%2F%2Fwww.osn.com%2Fsubscription%2Fpackages%2Fessential%2Falfa&docid=MIXBUvhX--bzZM&tbnid=nbMQcwfOlmYdaM%3A&vet=1&w=165&h=120&itg=1&bih=638&biw=1366&q=ad%20sports%204%20hd&ved=0ahUKEwiSk6H_oaHRAhWrAMAKHWJMDrMQMwgeKAQwBA&iact=mrc&uact=8"
+#EXTINF:-1 tvg-name="Abudhabi Sports 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-4_o.jpg"
 http://81.230.200.187:1967/live/mustafa/mustafa1/430.ts
-#EXTINF:-1 tvg-name="Abudhabi Sports 5 HD" tvg-logo="https://www.google.co.uk/imgres?imgurl=https%3A%2F%2F1.bp.blogspot.com%2F-BGukCOvdCng%2FV9_RsygYCJI%2FAAAAAAAAB-0%2FH8r6oHRDmIUGXDuC-PYBQSFPNliEzHicQCLcB%2Fs1600%2Fadsports-5.png&imgrefurl=http%3A%2F%2Fwww.4tvsport.com%2F2016%2F09%2Fad-sport-5hd.html&docid=2jqMheUK9WNH1M&tbnid=mhXdRUeYanFruM%3A&vet=1&w=745&h=419&bih=638&biw=1366&q=ad%20sports%205%20hd&ved=0ahUKEwjZ3a6HoqHRAhWMBsAKHbIYDucQMwgaKAAwAA&iact=mrc&uact=8"
+#EXTINF:-1 tvg-name="Abudhabi Sports 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-4_o.jpg"
 http://81.230.200.187:1967/live/mustafa/mustafa1/431.ts
-#EXTINF:-1 tvg-name="Astro Sports 4 HD" tvg-logo="https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fzoomsport.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fastro-supersport-300x150.png&imgrefurl=http%3A%2F%2Fzoomsport.com%2F&docid=WYP53Wi-9pI_cM&tbnid=2nugcpTNJxbI0M%3A&vet=1&w=300&h=150&bih=638&biw=1366&q=astro%20sports%20super%20sport%203&ved=0ahUKEwiWtPSmoqHRAhXHKsAKHSxRBQkQMwhtKEowSg&iact=mrc&uact=8"
+#EXTINF:-1 tvg-name="Astro Sports 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGnQFZT3axkTfrPagqy8z8DSbuq9NMm5603xAs3rv6nAs6e6wM"
 http://185.2.83.63:8080/sAlakHHarR00si/aesrtreo-3/tracks-v1a1/index.m3u8
