@@ -11,3 +11,5 @@ http://81.230.200.187:1967/live/mustafa/mustafa1/430.ts
 http://81.230.200.187:1967/live/mustafa/mustafa1/431.ts
 #EXTINF:-1 tvg-name="Astro Sports 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGnQFZT3axkTfrPagqy8z8DSbuq9NMm5603xAs3rv6nAs6e6wM"
 http://185.2.83.63:8080/sAlakHHarR00si/aesrtreo-3/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Chelsea TV" tvg-logo="http://www.liveonlinetv247.info/images/chelseatv.png"
+http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
