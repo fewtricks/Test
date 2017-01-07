@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sky sports 1" tvg-logo="http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png"
+http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+#EXTINF:-1 tvg-name="Sky sports 2" tvg-logo="http://1.bp.blogspot.com/_m0VMopGnxUw/S6_SDfF-uBI/AAAAAAAACtE/tsVP4D-c_lc/s320/bay6.gif"
+http://163.172.217.53:8000/live/5grandiptv915/67863345/695.ts
+#EXTINF:-1 tvg-name="Sky sports 3" tvg-logo="https://d1iyvc6w63ago2.cloudfront.net/preview/height/130/27ed36aa0214908e1a61/skySports3500x240.png"
+http://163.172.217.53:8000/live/5grandiptv915/67863345/696.ts
+#EXTINF:-1 tvg-name="Sky sports 4" tvg-logo="http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png"
+http://163.172.217.53:8000/live/5grandiptv915/67863345/697.ts
+#EXTINF:-1 tvg-name="Sky sports 5" tvg-logo="http://wikitv.eu/wp-content/uploads/2015/03/SKY-SPORTS-5.jpeg"
+http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
+#EXTINF:-1 tvg-name="Sky sports 1 HD" tvg-logo="http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/209.ts
+#EXTINF:-1 tvg-name="Sky sports 2 HD" tvg-logo="http://1.bp.blogspot.com/_m0VMopGnxUw/S6_SDfF-uBI/AAAAAAAACtE/tsVP4D-c_lc/s320/bay6.gif"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/210.ts
+#EXTINF:-1 tvg-name="Sky sports 3" tvg-logo="https://d1iyvc6w63ago2.cloudfront.net/preview/height/130/27ed36aa0214908e1a61/skySports3500x240.png"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/211.ts
+#EXTINF:-1 tvg-name="Sky sports 4" tvg-logo="http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/212.ts
+#EXTINF:-1 tvg-name="Sky sports 5" tvg-logo="http://wikitv.eu/wp-content/uploads/2015/03/SKY-SPORTS-5.jpeg"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/213.ts
+#EXTINF:-1 tvg-name="BT sports 1 " tvg-logo="http://oklivetv.com/wp-content/uploads/media/bt-sport-1-logo.jpeg"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/206.ts
+#EXTINF:-1 tvg-name="BT sports 1 " tvg-logo="http://oklivetv.com/wp-content/uploads/media/bt-sport-2-logo.jpeg"
 #EXTINF:-1 tvg-name="Abudhabi Sports 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg"
 http://81.230.200.187:1967/live/mustafa/mustafa1/427.ts
 #EXTINF:-1 tvg-name="Abudhabi Sports 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg"
@@ -13,13 +36,6 @@ http://81.230.200.187:1967/live/mustafa/mustafa1/431.ts
 http://185.2.83.63:8080/sAlakHHarR00si/aesrtreo-3/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Chelsea TV" tvg-logo="http://www.liveonlinetv247.info/images/chelseatv.png"
 http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
-#EXTINF:-1 tvg-name="Sky sports 1" tvg-logo="http://4.bp.blogspot.com/-pcgRsJ6mEjY/UZdsDBj0J5I/AAAAAAAAALc/iNVH-d0a2F0/s1600/Sky+Sports+1.png"
-http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
-#EXTINF:-1 tvg-name="Sky sports 2" tvg-logo="http://1.bp.blogspot.com/_m0VMopGnxUw/S6_SDfF-uBI/AAAAAAAACtE/tsVP4D-c_lc/s320/bay6.gif"
-http://163.172.217.53:8000/live/5grandiptv915/67863345/695.ts
-#EXTINF:-1 tvg-name="Sky sports 3" tvg-logo="https://d1iyvc6w63ago2.cloudfront.net/preview/height/130/27ed36aa0214908e1a61/skySports3500x240.png"
-http://163.172.217.53:8000/live/5grandiptv915/67863345/696.ts
-#EXTINF:-1 tvg-name="Sky sports 4" tvg-logo="http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png"
-http://163.172.217.53:8000/live/5grandiptv915/67863345/697.ts
-#EXTINF:-1 tvg-name="Sky sports 5" tvg-logo="http://wikitv.eu/wp-content/uploads/2015/03/SKY-SPORTS-5.jpeg"
-http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
+
+
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/206.ts
