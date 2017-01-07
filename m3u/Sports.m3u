@@ -1,85 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Saudi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNadjSIAv9PptCrW6x9_2UsMVRprSmuLR6eRKz8j1Qi08gVbGlfw"
-http://fiberbox.tk/live/brennan/brennan/12695.ts
- #EXTINF:-1,==-INDIA-==
-#EXTINF:-1,IN: ABP News
-http://fiberbox.tk/live/brennan/brennan/12533.ts
-#EXTINF:-1,IN: And Picture HD
-http://fiberbox.tk/live/brennan/brennan/12536.ts
-#EXTINF:-1,IN: And TV HD
-http://fiberbox.tk/live/brennan/brennan/12537.ts
-#EXTINF:-1,IN: Arihant ( Religious )
-#EXTINF:-1,IN: Colors TV India
-http://fiberbox.tk/live/brennan/brennan/12552.ts
-#EXTINF:-1,UK: Colors UK
-http://fiberbox.tk/live/brennan/brennan/12553.ts
-#EXTINF:-1,IN: DD Sports
-http://fiberbox.tk/live/brennan/brennan/12554.ts
-#EXTINF:-1,IN: Discovery HD Hindi
-http://fiberbox.tk/live/brennan/brennan/12556.ts
-#EXTINF:-1,IN: K TV Tamil
-http://fiberbox.tk/live/brennan/brennan/12579.ts
-#EXTINF:-1,IN: Life OK
-http://fiberbox.tk/live/brennan/brennan/12583.ts
-#EXTINF:-1,IN: MH1 Shraddha Punjabi
-http://fiberbox.tk/live/brennan/brennan/12590.ts
-#EXTINF:-1,IN: National Geographic HD Hindi
-http://fiberbox.tk/live/brennan/brennan/12594.ts
-#EXTINF:-1,IN: Neo Sports
-http://fiberbox.tk/live/brennan/brennan/12597.ts
-#EXTINF:-1,IN: Peace TV Urdu
-http://fiberbox.tk/live/brennan/brennan/12602.ts
-#EXTINF:-1,IN: POGO TV Hindi
-http://fiberbox.tk/live/brennan/brennan/12603.ts
-#EXTINF:-1,IN: PTC Chakde Punjabi
-http://fiberbox.tk/live/brennan/brennan/12604.ts
-#EXTINF:-1,IN: PTC News Punjabi
-http://fiberbox.tk/live/brennan/brennan/12605.ts
-#EXTINF:-1,IN: PTC Punjabi
-http://fiberbox.tk/live/brennan/brennan/12606.ts
-#EXTINF:-1,IN: Raj News Telugu
-http://fiberbox.tk/live/brennan/brennan/12608.ts
-#EXTINF:-1,IN: Sab TV HD India
-http://fiberbox.tk/live/brennan/brennan/12611.ts
-#EXTINF:-1,IN: Sony PIX HD
-http://fiberbox.tk/live/brennan/brennan/12615.ts
-#EXTINF:-1,IN: Sony Six HD
-http://fiberbox.tk/live/brennan/brennan/12617.ts
-#EXTINF:-1,IN: Sony TV HD
-http://fiberbox.tk/live/brennan/brennan/12618.ts
-#EXTINF:-1,IN: Star Gold IN
-http://fiberbox.tk/live/brennan/brennan/12619.ts
-#EXTINF:-1,IN: Star Movies HD
-http://fiberbox.tk/live/brennan/brennan/12620.ts
-#EXTINF:-1,IN: Star Plus HD
-http://fiberbox.tk/live/brennan/brennan/12621.ts
-#EXTINF:-1,IN: Star Plus SD
-http://fiberbox.tk/live/brennan/brennan/12622.ts
-#EXTINF:-1,IN: Ten Cricket
-http://fiberbox.tk/live/brennan/brennan/12630.ts
-#EXTINF:-1,IN: Zee Bollywood HD
-http://fiberbox.tk/live/brennan/brennan/12641.ts
-#EXTINF:-1,IN: ZEE BUSINESS INDIA
-http://fiberbox.tk/live/brennan/brennan/12642.ts
-#EXTINF:-1,IN: Zee Cinema
-http://fiberbox.tk/live/brennan/brennan/12643.ts
-#EXTINF:-1,IN: Zee Cinema HD
-http://fiberbox.tk/live/brennan/brennan/12644.ts
-#EXTINF:-1,IN: Zee News
-http://fiberbox.tk/live/brennan/brennan/12649.ts
-#EXTINF:-1,IN: Zee Studio HD
-http://fiberbox.tk/live/brennan/brennan/12650.ts
-#EXTINF:-1,IN: Zindagi TV
-http://fiberbox.tk/live/brennan/brennan/12655.ts
-#EXTINF:-1,IN: Zing
-http://fiberbox.tk/live/brennan/brennan/12656.ts
-#EXTINF:-1,PK: 24 News
-http://fiberbox.tk/live/brennan/brennan/12657.ts
-#EXTINF:-1,PK: 92 NEws
-http://fiberbox.tk/live/brennan/brennan/12658.ts
-#EXTINF:-1,PK: A PLUS
-http://fiberbox.tk/live/brennan/brennan/12659.ts
-#EXTINF:-1,PK: Abbtak News
-http://fiberbox.tk/live/brennan/brennan/12660.ts
-#EXTINF:-1,PK: Ajj News
-http://fiberbox.tk/live/brennan/brennan/12661.ts
+#EXTINF:-1,(UK) BBC 1 HD tvg-logo="http://internationalartistsmanagement.co.uk/wp-content/uploads/2016/07/Press-Logo-BBC-One.png"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/332.ts
+#EXTINF:-1,(UK) BBC 2 HD
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/333.ts
+#EXTINF:-1,(UK) BBC 3 HD
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/319.ts
+#EXTINF:-1,(UK) BBC 4 HD
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/334.ts
+#EXTINF:-1,(UK) BBC News
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11412.ts
+#EXTINF:-1,(UK) Sky News HD
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/204.ts
+#EXTINF:-1,(UK) CNN News
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11443.ts
+#EXTINF:-1,(UK) Bloomberg
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11440.ts
+#EXTINF:-1,(UK) Al Jazeera UK
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11423.ts
+#EXTINF:-1,(UK) National Geographic Channel
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/194.ts
+#EXTINF:-1,(UK) National Geographic Wild
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1568.ts
+#EXTINF:-1,(UK) History Channel
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11415.ts
+#EXTINF:-1,(UK) Animal Planet
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/192.ts
