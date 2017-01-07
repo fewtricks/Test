@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,tvg-name="BBC News" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple19/v4/9b/b8/d1/9bb8d147-ba3e-b733-14a2-d5908a61e868/source/1200x630bf.jpg"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11412.ts
+#EXTINF:-1,tvg-name="Sky News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/204.ts
+#EXTINF:-1,tvg-name="CNN" tvg-logo="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11443.ts
+#EXTINF:-1,tvg-name="Bloomberg" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5rKloHEcumMHZKYEXPwnR7Yu8OklJeTh6lD7VI-HNwpzZtCYr"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11440.ts
+#EXTINF:-1,tvg-name="Al Jazeera UK" tvg-logo="http://www.vortexsat.com/wp-content/uploads/2015/12/al-jazeera.png"
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11423.ts
