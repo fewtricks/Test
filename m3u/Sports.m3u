@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1,tvg-name="BBC 1 HD" tvg-logo="http://internationalartistsmanagement.co.uk/wp-content/uploads/2016/07/Press-Logo-BBC-One.png"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/332.ts
-#EXTINF:-1,(UK) BBC 2 HD
+#EXTINF:-1,tvg-name="BBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/333.ts
-#EXTINF:-1,(UK) BBC 3 HD
+#EXTINF:-1,tvg-name="BBC 3 HD" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/01/04141344/BBC_Three.svg_-1002x566.jpg"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/319.ts
-#EXTINF:-1,(UK) BBC 4 HD
+#EXTINF:-1,tvg-name="BBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1280px-BBC_Four_HD_Logo.svg.png"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/334.ts
-#EXTINF:-1,(UK) BBC News
+#EXTINF:-1,tvg-name="BBC News" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple19/v4/9b/b8/d1/9bb8d147-ba3e-b733-14a2-d5908a61e868/source/1200x630bf.jpg"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11412.ts
-#EXTINF:-1,(UK) Sky News HD
+#EXTINF:-1,tvg-name="Sky News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/204.ts
-#EXTINF:-1,(UK) CNN News
+#EXTINF:-1,tvg-name="CNN" tvg-logo="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11443.ts
-#EXTINF:-1,(UK) Bloomberg
+#EXTINF:-1,tvg-name="Bloomberg" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5rKloHEcumMHZKYEXPwnR7Yu8OklJeTh6lD7VI-HNwpzZtCYr"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11440.ts
-#EXTINF:-1,(UK) Al Jazeera UK
+#EXTINF:-1,tvg-name="Al Jazeera UK" tvg-logo="http://www.vortexsat.com/wp-content/uploads/2015/12/al-jazeera.png"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11423.ts
-#EXTINF:-1,(UK) National Geographic Channel
+#EXTINF:-1,tvg-name="National Geographic Channel" tvg-logo="http://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/194.ts
-#EXTINF:-1,(UK) National Geographic Wild
+#EXTINF:-1,tvg-name="National Geographic Wild" tvg-logo="http://www.hollywooddailystar.com/wp-content/uploads/2015/09/Nat_Geo_Wild-logo-black.jpg"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1568.ts
-#EXTINF:-1,(UK) History Channel
+#EXTINF:-1,tvg-name="History Channel" tvg-logo="http://www.catsmeowmarketing.com/graphic-design/logo-design-6-lg.jpg"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11415.ts
-#EXTINF:-1,(UK) Animal Planet
+#EXTINF:-1,tvg-name="Animal Planet" tvg-logo="http://www.fameplymouth.com/images/animal_planet_logo_2942.gif"
 http://iptv.jinbox.nl:1339/live/Zaza/Zaza/192.ts
